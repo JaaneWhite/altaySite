@@ -1,10 +1,13 @@
 <template>
+
 </template>
 
 <script>
-export default {}
+export default {
+  name: "TopMenu"
+}
 </script>
 
-<style>
+<style scoped>
 
 </style>
